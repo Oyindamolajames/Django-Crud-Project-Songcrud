@@ -21,6 +21,7 @@ $ cd Django-Crud-Project-Songcrud
 Install pipenv and activate shell:
 ```
 $ sudo pip3 install pipenv
+$ pipenv install
 $ pipenv shell
 ```
 
